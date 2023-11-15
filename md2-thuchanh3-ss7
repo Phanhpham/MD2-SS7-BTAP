@@ -1,0 +1,16 @@
+#include<stdio.h>
+int main(){
+int a,b,c;
+printf("Nhap so tien gui: ");
+scanf("%d",&a);
+printf("nhap so thang gui: ");
+scanf("d",&b);
+printf("nhap lai xuat: ");
+scanf("d",&c);
+tienlai = a*(c/100)
+
+
+
+
+
+}
